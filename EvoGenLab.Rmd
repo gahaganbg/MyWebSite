@@ -1,0 +1,15 @@
+---
+title: "EvoGenLab"
+output: 
+  prettydoc::html_pretty:
+    theme: tactile
+    highlight: github
+---
+
+
+## EvoGeno Coursework
+
+
+
+
+### [2020 Fall Semester BIO697](https://gahaganbg.github.io/genomics_course_bg/)

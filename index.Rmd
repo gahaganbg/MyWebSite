@@ -1,0 +1,14 @@
+---
+title: "My Website"
+output:
+  prettydoc::html_pretty:
+    theme: tactile
+    highlight: github
+---
+
+Hello, fishy friends!
+
+Welcome to my website. I am currently building this out, so patience please!
+
+Best,
+Ben

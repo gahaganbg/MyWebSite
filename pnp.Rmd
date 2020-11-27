@@ -1,0 +1,33 @@
+---
+title: "Projects and Manuscripts"
+output:  
+  prettydoc::html_pretty:
+    theme: tactile
+    highlight: github
+---
+
+## Technical Committee Work
+
+River Herring and Shad Stock Assessments
+
+2019 River Herring Status Determination
+
+Merrimack River
+
+Connecticut River
+
+
+## Publications
+
+
+## Massachusetts Division of Marine Fisheries
+
+Diadromous Biology and Restoration Project
+
+Striped Bass Research
+
+## UMass Amherst
+
+ECo Directory Page
+
+Jordaan Lab

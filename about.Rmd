@@ -1,0 +1,13 @@
+---
+title: "Nobody makes me bleed my own blood"
+output:
+  prettydoc::html_pretty:
+    theme: tactile
+    highlight: github
+---
+
+As a Diadromous Fish Biologist at the Massachusetts Division of Marine Fisheries, my primary focus is on monitoring and restoring diadromous fish populations in Massachusetts. I cover the greater Boston area and north to the NH border. I also regularly work or assist on research projects, especially those involving acoustic telemetry, regardless of focal species. I enjoy research collaborations and actively collaborate with USFWS's Central New England Office and researchers from UMASS-Amherst, University of Maryland-Chesapeake Biological Laboratory, and am a member of the ACT and MATOS networks. I currently serve on the  Technical Committees for the Merrimack and Connecticut rivers and have previously been a member of the ASMFC River Herring and Shad Stock Assessment Sub-committee and the NOAA River Herring ESA Status Determination team. 
+
+My research interests are broad but largely focus on the mechanisms and ecology of fish migrations and how this information can be applied to improve conservation and management. I am currently pursuing my PhD in the Department of Environmental Conservation at the University of Massachusetts AMherst under the supervision of Dr. Adrian Jordaan.
+
+I have BA in History from Kenyon College (2002) and a MSc in Natural Resource Management (Fisheries) from the University of Connecticut (2010, advised by Dr. Jason Vokoun). I have previously worked as Fisheries technician at CT DEEP and as Faculty Research Assistant for Dr. David Secor at UMD-Chesapeak Biological Laboratory. 
